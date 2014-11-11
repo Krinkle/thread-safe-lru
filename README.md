@@ -14,4 +14,4 @@ A set of header-only C++ classes providing thread-safe LRU caches. Uses Intel's
   hash value. This is recommended as a key object for the above two containers.
 
 For indicative benchmarks to help with container selection, see
-[the benchmarks page on the wiki](https://github.com/tstarling/thread-safe-lru/wiki/Benchmarks).
+[the benchmarks page](./docs/Benchmarks.md).
